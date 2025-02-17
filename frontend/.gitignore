@@ -1,0 +1,51 @@
+# Node.js dependencies  
+node_modules/  
+npm-debug.log*  
+yarn-debug.log*  
+yarn-error.log*  
+pnpm-debug.log*  
+package-lock.json  
+yarn.lock  
+pnpm-lock.yaml  
+
+# Environment variables  
+.env  
+
+# Logs  
+logs  
+*.log  
+npm-debug.log  
+yarn-debug.log  
+pnpm-debug.log  
+lerna-debug.log  
+.log  
+debug.log  
+output.log  
+stacktrace.log  
+
+# Editor-specific files  
+.vscode/  
+.idea/  
+*.sublime-project  
+*.sublime-workspace  
+
+# Build files  
+dist/  
+build/  
+.babelrc  
+.eslintcache  
+.next/  
+.cache/  
+out/  
+
+# OS-specific files  
+.DS_Store  
+Thumbs.db  
+
+# Misc  
+*.swp  
+*.swo  
+*.bak  
+*.pid  
+*.seed  
+*.cover  
